@@ -1,6 +1,6 @@
 # main text of home
 title: Jackie | agaperste
-bio: A Chinese-born, NYC-living girl tinkering about human existance and on a futile hunt for childhoold Chinese food.
+bio: Tinkering about human existance and on a futile hunt for childhoold Chinese food.
 
 # twitter summary info
 description: A personal website aggregating tinkering thoughts, learning journey, project and travel.
@@ -20,8 +20,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+url: https://agaperste.github.io
 
 permalink: /:title/
 
@@ -34,16 +33,16 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-twitter: https://twitter.com/agaperste
-instagram: https://www.instagram.com/pepperjackieee/
-linkedin: https://www.linkedin.com/in/jackieyingzhuzhang/
-github: https://github.com/agaperste
+twitter: agaperste
+instagram: pepperjackieee/
+linkedin: jackieyingzhuzhang/
+github: agaperste
 email: agapehumilduro@gmail.com
 
 authors:
-  johndoe:
+  jackie:
     name: Jackie | agaperste
-    bio: A Chinese-born, NYC-living girl tinkering about human existance and on a futile hunt for childhoold Chinese food.
+    bio: Tinkering about human existance and on a futile hunt for childhoold Chinese food.
     external-image: false
     picture: assets/images/koi-blue.png
     twitter: https://twitter.com/agaperste
