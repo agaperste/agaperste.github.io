@@ -4,3 +4,20 @@ _site
 Gemfile.lock
 .bundle
 vendor/
+
+# Next.js
+.next/
+out/
+node_modules/
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment
+.env*.local
+
+# IDE
+.vscode/
+.idea/
